@@ -22,12 +22,11 @@ For this project I'm going to use a random sample of the 2019 ENEM data (Brazil'
 
 4. Do brazilian students who chose 'english' as a foreign language have higher language average scores than those who chose 'spanish'? 
 
-I'm using a random sample of 0.1% of the whole ENEM exam dataset. The full dataset can be accessed in [Dados Abertos INEP] (https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos).
+I'm using a random sample of 0.1% of the whole ENEM exam dataset. The full dataset can be accessed in [Dados Abertos INEP](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos).
 
 ## Installation <a name="installation"></a>
 
 There should be no necessary libraries to run the code here beyond the standard Google's Colab environment. 
-
 
 ## File Descriptions <a name="files"></a>
 
@@ -41,4 +40,4 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Credits to Dados Abertos INEP for the data.
+Credits to Dados Abertos INEP for the data. This is a student's notebook, therefore the [MIT Licence](LICENSE).
