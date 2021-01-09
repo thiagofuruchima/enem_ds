@@ -24,6 +24,8 @@ The dataset represents a random sample of 0.1% of the whole 2019 ENEM exam datas
 
 As the image below shows, on average, there is a score gap between white and brown brazilian ENEM students. It does not mean that every white student will have a higher score than every brown student. It only means that if we take a random group of ENEM students the average score for the white colors will be higher than for the black.
 
+![White x Brown](white_brown_scores.png)
+
 This other image shows that the proportion of brazilian students with a family monthly income of more than two minimum wages is higher for those declared as white than for brown skin.
 
 This should be no surprise if you're aware of social inequalities in Brazil. But what about brown and black students? Are these differences also shown?
