@@ -40,4 +40,8 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Credits to Dados Abertos INEP for the data. This is a student's notebook, therefore the [MIT Licence](LICENSE).
+Credits to Dados Abertos INEP for the data. 
+
+The findings here are observational, not the result of a formal study.
+
+This is a student's project, take a look at the [MIT Licence](LICENSE) before using elsewhere.
