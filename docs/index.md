@@ -8,6 +8,8 @@ Here's what I've got so far:
 
 > ### Brazilian white students have higher average scores than brown students.
 
+![](assets/img/white_brown_scores.png)
+
 On average, there is a score gap between white and brown brazilian ENEM students in favor of the first. It does not mean that every white student had a higher score than the brown students. But it does mean that if we take a random group of ENEM students the average score for the white will be higher than for the brown.
 
 > ### There are more white students with higher family income than brown students.
@@ -17,6 +19,8 @@ The proportion of brazilian students with a family monthly income of more than t
 But what about brown and black students? Are these differences also shown? Well, turns out that the answer is no!
 
 > ### Brazilian brown students don't have higher average scores than black students
+
+![](assets/img/brown_black_scores.png)
 
 On average, there is no statistically significant difference between the score of brown and black brazilian ENEM students. 
 
