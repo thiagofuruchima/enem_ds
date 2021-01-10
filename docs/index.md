@@ -1,3 +1,5 @@
+![](assets/img/naassom-azevedo-Q_Sei-TqSlc-unsplash.jpg)
+
 ## Introduction<a name="introduction"></a>
 
 For this project I'm using a random sample of the 2019 ENEM data (Brazil's SAT like exam) to answer some questions regarding brazilian high school students.
