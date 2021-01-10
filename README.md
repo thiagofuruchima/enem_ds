@@ -36,7 +36,7 @@ The data sample used for this project is on the data folder.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://www.google.com).
+The main findings of the code can be found at the post available [here](https://thiagofuruchima.github.io/enem_ds/).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
