@@ -30,9 +30,16 @@ On average, there is no statistically significant difference between the proport
 
 > ### Brazilian students who pick "english" as their prefered foreing language have higher language average scores than those who pick "spanish".
 
+![](assets/img/english_spanish_scores.png)
+
 As the previous findings, this one could also be explained by social inequalities: since spanish have some similarities with portuguese, students who can't afford a private english course tend to pick it as their prefered foreign language.
 
 > ### Brazilian female students have higher essay average scores than male students.
 
+![](assets/img/male_female_scores.png)
+
 This one is quite interesting (at least for me). On average, female students outscored male on the essay exam on ENEM 2019.
 
+### Learn more
+
+The above conclusions were reached by hypothesis testing, using both bootstrap and two sample t-test. If you want to know more about the technical aspects of this study, check the [github repo](https://github.com/thiagofuruchima/enem_ds).
