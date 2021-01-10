@@ -1,6 +1,6 @@
-![](assets/img/naassom-azevedo-Q_Sei-TqSlc-unsplash.jpg)
+![](assets/img/naassom-azevedo-Q_Sei-TqSlc-unsplash-min.jpg)
 
-## Introduction<a name="introduction"></a>
+## Who does well on ENEM?<a name="introduction"></a>
 
 For this project I'm using a random sample of the 2019 ENEM data (Brazil's SAT like exam) to answer some questions regarding brazilian high school students.
 
@@ -26,7 +26,7 @@ On average, there is no statistically significant difference between the proport
 
 > ### Brazilian students who pick "english" as their prefered foreing language have higher language average scores than those who pick "spanish".
 
-As the previous findings, I think this one could also be explained by social inequalities: since spanish have some similarities with portuguese, students who can't afford a private english course tend to pick it as their prefered foreign language.
+As the previous findings, this one could also be explained by social inequalities: since spanish have some similarities with portuguese, students who can't afford a private english course tend to pick it as their prefered foreign language.
 
 > ### Brazilian female students have higher essay average scores than male students.
 
