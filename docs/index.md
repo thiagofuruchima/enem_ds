@@ -4,7 +4,7 @@ For this project I'm using a random sample of the 2019 ENEM data (Brazil's SAT l
 
 Here's what I've got so far:
 
-> Brazilian students self declared as white skinned have higher average scores than those with brown skin.
+> ### Brazilian students self declared as white skinned have higher average scores than those with brown skin.
 
 On average, there is a score gap between white and brown brazilian ENEM students in favor of the first. It does not mean that every white student will have a higher score than every brown student. But it does mean that if we take a random group of ENEM students the average score for the white will be higher than for the black.
 
