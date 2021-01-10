@@ -34,6 +34,8 @@ There is one notebook available here to present the work related to the above qu
 
 The data sample used for this project is on the data folder.
 
+The docs folder contains the necessary "Github Pages" files.
+
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://thiagofuruchima.github.io/enem_ds/).
