@@ -4,23 +4,23 @@ For this project I'm using a random sample of the 2019 ENEM data (Brazil's SAT l
 
 Here's what I've got so far:
 
-> ### Brazilian students self declared as white skinned have higher average scores than those with brown skin.
+> ### Brazilian white students have higher average scores than brown students.
 
-On average, there is a score gap between white and brown brazilian ENEM students in favor of the first. It does not mean that every white student will have a higher score than every brown student. But it does mean that if we take a random group of ENEM students the average score for the white will be higher than for the black.
+On average, there is a score gap between white and brown brazilian ENEM students in favor of the first. It does not mean that every white student had a higher score than the brown students. But it does mean that if we take a random group of ENEM students the average score for the white will be higher than for the brown.
 
-> ### The proportion of brazilian students with a family monthly income of more than two minimum wages is higher for those declared as white than for brown skin.
+> ### There are more white students with higher family income than brown students.
 
-This should be no surprise if you're aware of social inequalities in Brazil.
+The proportion of brazilian students with a family monthly income of more than two minimum wages is higher for those declared as white than for brown skin. This should be no surprise if you're aware of social inequalities in Brazil.
 
 But what about brown and black students? Are these differences also shown? Well, turns out that the answer is no!
 
-> ### Brazilian students self declared as brown skinned don't have higher average scores than those self declared as black.
+> ### Brazilian brown students don't have higher average scores than black students
 
 On average, there is no statistically significant difference between the score of brown and black brazilian ENEM students. 
 
-> ### The proportion of brazilian students with a family monthly income of more than two minimum wages is not higher for those declared as brown than for black.
+> ### There are no more brown students with higher family income than black students.
 
-On average, there is no statistically significant difference between the proportion of brazilian students with a family monthly income of more than two minimum wages for those who self declared as brown or black.
+On average, there is no statistically significant difference between the proportion of brazilian students with a family monthly income of more than two minimum wages for those self declared as brown or black.
 
 > ### Brazilian students who pick "english" as their prefered foreing language have higher language average scores than those who pick "spanish".
 
@@ -29,3 +29,4 @@ As the previous findings, I think this one could also be explained by social ine
 > ### Brazilian female students have higher essay average scores than male students.
 
 This one is quite interesting (at least for me). On average, female students outscored male on the essay exam on ENEM 2019.
+
